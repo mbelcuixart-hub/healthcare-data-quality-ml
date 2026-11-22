@@ -70,16 +70,26 @@ particularly when training and testing records overlap.
 - Data Leakage Assessment
 - Scientific Interpretation
 
+
 ## Dataset Source
 
-Dataset obtained from Kaggle.
+**Dataset:** Disease Prediction Using Machine Learning
 
-**Dataset:** [Add dataset name and link]
+**Dataset creator:** Kaushil Mangaroliya (Kaushil268)
 
-**Author:** [Add dataset creator]
+**Platform:** Kaggle
 
-Please refer to the original dataset page for
-licensing and usage conditions.
+**Source:** [View Original Dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
+
+The dataset contains binary symptom indicators and corresponding diagnostic categories.
+
+It was used in this project to investigate data quality, duplicate observations, potential data leakage, and machine learning evaluation.
+
+The original dataset is credited to its creator. Dataset provenance and licensing conditions
+should be reviewed before redistribution or commercial use.
+
+This analysis is intended for educational and portfolio purposes only.
+
 
 ## Disclaimer
 
