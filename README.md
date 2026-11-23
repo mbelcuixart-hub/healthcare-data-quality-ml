@@ -102,19 +102,3 @@ or medical decision-making.
 
 ## Data Visualizations
 
-### Diagnosis and Symptom Distributions
-
-Exploratory analysis of the number of records per
-diagnostic category and the distribution of active
-symptoms across unique training records.
-
-![Diagnosis and Symptom Distributions](diagnosis_and_symptom_distributions.png)
-
-### Most Frequent Symptoms
-
-Visualization of the 15 most frequently reported
-symptoms across unique training records.
-
-![Top 15 Symptoms](top_15_symptoms.png)
-
-
